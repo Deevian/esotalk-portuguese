@@ -161,7 +161,7 @@ $definitions["Enabled"] = "Ligado";
 $definitions["Enter a conversation title"] = "Introduz um titulo para a conversa";
 $definitions["Error"] = "Erro";
 $definitions["esoTalk version"] = "Versão do esoTalk";
-$definitions["Everyone"] = "Toda a gente";
+$definitions["Everyone"] = "Todos";
 
 $definitions["Fatal Error"] = "Uh oh! É um erro fatal...";
 $definitions["Feed"] = "Feed";
@@ -295,7 +295,7 @@ $definitions["Only allow members of this group to see who else is in it"] = "Ape
 $definitions["Open registration"] = "Abrir registos";
 $definitions["optional"] = "opcional";
 $definitions["Order By:"] = "Ordenar Por:";
-$definitions["Original Post"] = "Publicação Original";
+$definitions["Original Post"] = "Publicação";
 
 $definitions["Page Not Found"] = "Página Não Encontrada";
 $definitions["Password"] = "Password";
