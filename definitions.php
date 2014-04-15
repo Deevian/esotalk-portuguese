@@ -4,7 +4,7 @@
 
 ET::$languageInfo["Portuguese"] = array(
 	"locale" => "pt-PT",
-	"name" => "Portuguese",
+	"name" => "Português",
 	"description" => "A casual Portuguese language pack.",
 	"version" => ESOTALK_VERSION,
 	"author" => "Deevian",
