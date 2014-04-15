@@ -10,3 +10,5 @@ $definitions["This post answered my question"] = "Esta publicação respondeu à
 $definitions["Answered by %s"] = "Respondido por %s";
 $definitions["See post in context"] = "Ver publicação no seu contexto";
 $definitions["Remove answer"] = "Remover resposta";
+
+$definitions["label.answered"] = "Respondido";
