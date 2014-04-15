@@ -256,6 +256,7 @@ $definitions["Members"] = "Membros";
 $definitions["Members Allowed to View this Conversation"] = "Membros Autorizados a Ver Esta Conversa";
 $definitions["Members Awaiting Approval"] = "Membros com Aprovação Pendente";
 $definitions["Members Online"] = "Membros Ligados";
+$definitions["%s Members"] = "%s Membros";
 $definitions["Members"] = "Membros";
 $definitions["Mobile skin"] = "Skin Mobile";
 $definitions["Moderate"] = "Moderar";
@@ -449,7 +450,7 @@ $definitions["message.fileUploadFailedMove"] = "O ficheiro que transferiste não
 $definitions["message.fileUploadNotImage"] = "O ficheiro que transferiste não é uma imagem com um formato válido.";
 $definitions["message.fileUploadTooBig"] = "O ficheiros que escolheste não foi transferido por ser demasiado grande.";
 $definitions["message.forgotPasswordHelp"] = "Portanto, esqueceste-te da tua password! Não te preocupes, acontece a toda a hora. Simplesmente insere o teu endereço de email e nós enviamos-te instruções para definires uma nova.";
-$definitions["message.fulltextKeywordWarning"] = "Tem em atenção que palavras chave com menos de 4 caracteres, e que palavras comuns como 'the' e 'for', não são incluídas nos termos de pesquisa.";
+$definitions["message.fulltextKeywordWarning"] = "Tem em atenção que palavras chave com menos de 4 caracteres e que palavras comuns como 'o' e 'de' não são incluídas nos termos de pesquisa.";
 $definitions["message.gambitsHelp"] = "Gambits são frases que descrevem aquilo que estás à procura. Carrega num gambit para o inserir no campo de pesquisa. Carrega duas vezes num gambit para imediatamente procurares pelo mesmo. Termos de pesquisa normais também funcionam!";
 $definitions["message.gdNotEnabledWarning"] = "A <strong>extensão de GD</strong> não está activa.<br/><small>Esta é necessária para redimensionar e gravar avatares. Fala com o teu host ou administrador para a instalar/activar.</small>";
 $definitions["message.greaterMySQLVersionRequired"] = "Necessitas de ter <strong>o MySQL 4 ou maior</strong> instalado e a <a href='http://php.net/manual/en/mysql.installation.php' target='_blank'>extensão de MySQL de PHP activa</a>.<br/><small>Instala ou actualiza ambos estes requisitos ou fala com o teu host ou administrador para o fazer.</small>";
