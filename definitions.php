@@ -430,7 +430,7 @@ $definitions["message.conversationDeleted"] = "A conversa foi apagada. Diz lá q
 $definitions["message.conversationNotFound"] = "Por alguma razão, esta conversa não pode ser vista. Ela pode não existir, ou podes não ver permissões para a visualizar.";
 $definitions["message.cookieAuthenticationTheft"] = "Por razões de segurança, não te conseguimos ligar com a cookie de 'mantém-me ligado'. Tenta entrar manualmente!";
 $definitions["message.deleteChannelHelp"] = "Hey, espera aí! Se apagares este canal, não vai haver maneira de o recuperar. A não ser que construas uma máquina do tempo. Mas, uh, não vai haver maneira <em>fácil</em> de o recuperar. Todas as conversas deste canal podem ser movidas para outro à tua escolha.";
-$definitions["message.emailConfirmed"] = "Porreiro! A tua conta foi validada e podes começar a participar nas conversas. Porque é que não <a href='".URL("conversation/start")."'>inicias uma</a> tu?";
+$definitions["message.emailConfirmed"] = "Porreiro! A tua conta foi validada e podes começar a participar nas conversas. Porque é que não <a href='".URL("conversation/start")."'>inicias uma tu</a>?";
 $definitions["message.emailDoesntExist"] = "Esse email não coincide com nenhum dos membros que temos na base de dados. Não te enganaste a escrever?";
 $definitions["message.emailNotYetConfirmed"] = "Precisas de confirmar o teu email antes de entrares com o mesmo! Se não recebeste um email de confirmação, <a href='%s'>carrega aqui para o reenviarmos</a>.";
 $definitions["message.emailTaken"] = "Ora, já existe um membro com este email!!";
@@ -521,22 +521,22 @@ $definitions["email.header"] = "<p>Hey %s!</p>";
 $definitions["email.footer"] = "<p>(Se não quiseres receber mais este tipo de emails, podes sempre <a href='%s'>alterar as tuas preferências de notificações</a>.)</p>";
 
 $definitions["email.confirmEmail.subject"] = "%1\$s, confirma o teu endereço de email";
-$definitions["email.confirmEmail.body"] = "<p>Alguém (esperançosamente tu!) registou-se no fórum '%1\$s' com este endereço de email.</p><p>Se foste tu, simplesmente visita a seguinte ligação e a tua conta ficará activada:<br>%2\$s</p>";
+$definitions["email.confirmEmail.body"] = "<p>Alguém (esperançosamente tu!) registou-se no fórum '%1\$s' com este endereço de email.</p><p>Se foste tu, simplesmente visita a seguinte ligação e a tua conta ficará activada:<br/><br/>%2\$s</p>";
 
 $definitions["email.approved.subject"] = "%1\$s, a tua conta foi aprovada";
-$definitions["email.approved.body"] = "<p>A tua conta em %1\$s foi aprovada.</p><p>Visita a seguinte ligação para entrares e começares a falar:<br>%2\$s</p>";
+$definitions["email.approved.body"] = "<p>A tua conta em %1\$s foi aprovada.</p><p>Visita a seguinte ligação para entrares e começares a falar:<br/><br/>%2\$s</p>";
 
 $definitions["email.forgotPassword.subject"] = "Esqueceste-te da tua password, %1\$s?";
-$definitions["email.forgotPassword.body"] = "<p>Alguém (esperançosamente tu!) submeteu um pedido de recuperação de password para a tua conta no fórum '%1\$s'. Se não quiseres mudar de password, simplesmente ignora este email.</p><p>Caso contrário, visita a seguinte ligação para a recuperares:<br>%2\$s</p>";
+$definitions["email.forgotPassword.body"] = "<p>Alguém (esperançosamente tu!) submeteu um pedido de recuperação de password para a tua conta no fórum '%1\$s'. Se não quiseres mudar de password, simplesmente ignora este email.</p><p>Caso contrário, visita a seguinte ligação para a recuperares:<br/><br/>%2\$s</p>";
 
 $definitions["email.mention.subject"] = "%1\$s mencionou-te numa publicação";
-$definitions["email.mention.body"] = "<p><strong>%1\$s</strong> mencionou-te numa publicação da conversa<strong>%2\$s</strong>.</p><hr>%3\$s<hr><p>Para ver a publicação no contexto, segue a seguinte ligação:<br>%4\$s</p>";
+$definitions["email.mention.body"] = "<p><strong>%1\$s</strong> mencionou-te numa publicação da conversa<strong>%2\$s</strong>.</p><hr>%3\$s<hr><p>Para ver a publicação no contexto, segue a seguinte ligação:<br/><br/>%4\$s</p>";
 
 $definitions["email.privateAdd.subject"] = "Foste adicionado a uma conversa privada";
-$definitions["email.privateAdd.body"] = "<p>Foste adicionado a uma conversa privada com o título de <strong>%1\$s</strong>.</p><hr>%2\$s<hr><p>Para ver esta conversa, segue a seguinte ligação:<br>%3\$s</p>";
+$definitions["email.privateAdd.body"] = "<p>Foste adicionado a uma conversa privada com o título de <strong>%1\$s</strong>.</p><hr>%2\$s<hr><p>Para ver esta conversa, segue a seguinte ligação:<br/><br/>%3\$s</p>";
 
 $definitions["email.post.subject"] = "[Nova Resposta] %1\$s";
-$definitions["email.post.body"] = "<p><strong>%1\$s</strong> respondeu a uma conversa que tu segues: <strong>%2\$s</strong></p><hr>%3\$s<hr><p>Para ver a nova actividade, segue a seguinte ligação:<br>%4\$s</p>";
+$definitions["email.post.body"] = "<p><strong>%1\$s</strong> respondeu a uma conversa que tu segues: <strong>%2\$s</strong></p><hr>%3\$s<hr><p>Para ver a nova actividade, segue a seguinte ligação:<br/><br/>%4\$s</p>";
 
 
 // Translating the gambit system can be quite complex, but we'll do our best to get you through it. :)
