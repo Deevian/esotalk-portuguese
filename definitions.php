@@ -214,7 +214,7 @@ $definitions["Installed Plugins"] = "Plugins Instalados";
 $definitions["Installed plugins"] = "Plugins instalados";
 $definitions["Installed Skins"] = "Skins Instaladas";
 $definitions["Installed skins"] = "Skins instaladas";
-$definitions["is %s"] = "é %s";
+$definitions["is %s"] = "está %s";
 
 $definitions["Joined"] = "Registou-se";
 $definitions["Jump to last"] = "Saltar para o último";
