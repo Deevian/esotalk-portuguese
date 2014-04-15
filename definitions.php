@@ -218,7 +218,7 @@ $definitions["Last active"] = "Último activo";
 $definitions["Last active %s"] = "Último activa %s";
 $definitions["Latest News"] = "Últimas Notícias";
 $definitions["Loading..."] = "A Carregar...";
-$definitions["Lock"] = "Cadeado";
+$definitions["Lock"] = "Trancar";
 $definitions["Log In"] = "Entrar";
 $definitions["Log Out"] = "Sair";
 
