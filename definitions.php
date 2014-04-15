@@ -161,7 +161,7 @@ $definitions["Enabled"] = "Ligado";
 $definitions["Enter a conversation title"] = "Introduz um titulo para a conversa";
 $definitions["Error"] = "Erro";
 $definitions["esoTalk version"] = "Versão do esoTalk";
-$definitions["Everyone"] = "Todos";
+$definitions["Everyone"] = "Toda a gente";
 
 $definitions["Fatal Error"] = "Uh oh! É um erro fatal...";
 $definitions["Feed"] = "Feed";
