@@ -433,7 +433,7 @@ $definitions["message.deleteChannelHelp"] = "Hey, espera aí! Se apagares este c
 $definitions["message.emailConfirmed"] = "Porreiro! A tua conta foi validada e podes começar a participar nas conversas. Porque é que não <a href='".URL("conversation/start")."'>inicias uma tu</a>?";
 $definitions["message.emailDoesntExist"] = "Esse email não coincide com nenhum dos membros que temos na base de dados. Não te enganaste a escrever?";
 $definitions["message.emailNotYetConfirmed"] = "Precisas de confirmar o teu email antes de entrares com o mesmo! Se não recebeste um email de confirmação, <a href='%s'>carrega aqui para o reenviarmos</a>.";
-$definitions["message.emailTaken"] = "Ora, já existe um membro com este email!!";
+$definitions["message.emailTaken"] = "Ora, já existe um membro com este email!";
 $definitions["message.empty"] = "Precisas de preencher este campo.";
 $definitions["message.emptyPost"] = "Pois... uh, provavelmente devias escrever alguma coisa na tua publicação.";
 $definitions["message.emptyTitle"] = "O título da tua conversa não pode ser vazio. Quer dizer, como é que alguém pode carregar num título vazio? Pensa nisso.";
