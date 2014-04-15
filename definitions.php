@@ -105,6 +105,7 @@ $definitions["Channel List"] = "Lista de Canais";
 $definitions["Channel title"] = "Título de canal";
 $definitions["Channel slug"] = "Slug de canal";
 $definitions["Channels"] = "Canais";
+$definitions["Choose a Channel"] = "Escolhe um Canal";
 $definitions["Choose a secure password of at least %s characters"] = "Escolhe uma password segura com pelo menos %s caracteres";
 $definitions["Choose what people will see when they first visit your forum."] = "Escolhe o que as pessoas irão ver quando visitam o teu fórum pela primeira vez.";
 $definitions["Click on a member's name to remove them."] = "Carrega no nome de um membro para o remover.";
