@@ -388,7 +388,7 @@ $definitions["Upgrade esoTalk"] = "Actualizar esoTalk";
 $definitions["Use a background image"] = "Usar uma imagem de fundo";
 $definitions["Use for mobile"] = "Usar para mobile";
 $definitions["Use friendly URLs"] = "Usar URLs amigáveis";
-$definitions["Used to verify your account and subscribe to conversations"] = "Usado para verificar a tua conta e para subscrever a conversas";
+$definitions["Used to verify your account and subscribe to conversations"] = "Usado para verificar a tua conta e para subscrever conversas";
 $definitions["Username"] = "Nome de utilizador";
 $definitions["Username or Email"] = "Nome de utilizador ou Email";
 
