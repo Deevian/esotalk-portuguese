@@ -13,7 +13,7 @@ ET::$languageInfo["Portuguese"] = array(
 	"license" => "GPLv2"
 );
 
-setlocale(LC_ALL, 'pt_PT');
+setlocale(LC_ALL, 'pt_BR');
 // Define the character set that this language uses.
 $definitions["charset"] = "utf-8";
 
