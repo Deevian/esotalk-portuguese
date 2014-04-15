@@ -307,7 +307,7 @@ $definitions["Posts"] = "Publicações";
 $definitions["Preview"] = "Pré-visualização";
 $definitions["Previous"] = "Anterior";
 
-$definitions["Quote"] = "Citar";
+$definitions["Quote"] = "Citação";
 $definitions["quote"] = "citar";
 
 $definitions["Read more"] = "Ler mais";
