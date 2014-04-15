@@ -35,7 +35,7 @@ $definitions["%d year ago"] = "no ano passado";
 $definitions["%d years ago"] = "há %d anos";
 
 $definitions["%s and %s"] = "%s e %s";
-$definitions["%s can view this conversation."] = "%s podem ver esta conversa.";
+$definitions["%s can view this conversation."] = "%s pode ver esta conversa.";
 $definitions["%s changed %s's group to %s."] = "%s mudou o grupo de %s para %s.";
 $definitions["%s changed your group to %s."] = "%s mudou o teu grupo para %s.";
 $definitions["%s conversation"] = "%s conversa";
@@ -161,7 +161,7 @@ $definitions["Enabled"] = "Ligado";
 $definitions["Enter a conversation title"] = "Introduz um titulo para a conversa";
 $definitions["Error"] = "Erro";
 $definitions["esoTalk version"] = "Versão do esoTalk";
-$definitions["Everyone"] = "Todos";
+$definitions["Everyone"] = "Toda a gente";
 
 $definitions["Fatal Error"] = "Uh oh! É um erro fatal...";
 $definitions["Feed"] = "Feed";
