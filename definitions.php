@@ -82,6 +82,7 @@ $definitions["Back to conversation"] = "Voltar à conversa";
 $definitions["Back to member"] = "Voltar ao membro";
 $definitions["Back to members"] = "Voltar aos membros";
 $definitions["Back to search"] = "Voltar à pesquisa";
+$definitions["Back to administration"] = "Voltar à administração";
 $definitions["Background color"] = "Cor de fundo";
 $definitions["Background image"] = "Imagem de fundo";
 $definitions["Base URL"] = "URL base";
