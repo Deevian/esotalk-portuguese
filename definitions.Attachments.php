@@ -4,6 +4,6 @@
 
 // English Definitions for the Answers plugin.
 
-$definitions["Attach a file"] = "Anexar um fixeiro";
-$definitions["Drop files to upload"] = "Arrasta os ficheiros para aqui para fazer upload";
+$definitions["Attach a file"] = "Anexar um ficheiro";
+$definitions["Drop files to upload"] = "Arrasta os ficheiros para aqui para fazer a tranferência";
 $definitions["message.attachmentNotFound"] = "Não é possível visualizar este anexo por alguma razão. Isto pode acontecer quando ele não existe ou quanto não tens permissões para o ver.";
