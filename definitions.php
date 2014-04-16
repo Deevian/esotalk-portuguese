@@ -527,7 +527,7 @@ $definitions["email.approved.subject"] = "%1\$s, a tua conta foi aprovada";
 $definitions["email.approved.body"] = "<p>A tua conta em %1\$s foi aprovada.</p><p>Visita a seguinte ligação para entrares e começares a falar:<br/>%2\$s</p>";
 
 $definitions["email.forgotPassword.subject"] = "Esqueceste-te da tua password, %1\$s?";
-$definitions["email.forgotPassword.body"] = "<p>Alguém (esperançosamente tu!) submeteu um pedido de recuperação de password para a tua conta no fórum '%1\$s'. Se não quiseres mudar de password, simplesmente ignora este email.</p><p>Caso contrário, visita a seguinte ligação para a recuperares:<br/><br/>%2\$s</p>";
+$definitions["email.forgotPassword.body"] = "<p>Alguém (esperançosamente tu!) submeteu um pedido de recuperação de password para a tua conta no fórum '%1\$s'. Se não quiseres mudar de password, simplesmente ignora este email.</p><p>Caso contrário, visita a seguinte ligação para a recuperares:<br/>%2\$s</p>";
 
 $definitions["email.mention.subject"] = "%1\$s mencionou-te numa publicação";
 $definitions["email.mention.body"] = "<p><strong>%1\$s</strong> mencionou-te numa publicação da conversa<strong>%2\$s</strong>.</p><hr>%3\$s<hr><p>Para veres a publicação no contexto, segue a seguinte ligação:<br/>%4\$s</p>";
